@@ -4,7 +4,7 @@ DUE Wednesday, March 23, 2016
 ## My Library: (2htdp/image)
 My name: John Brown3
 
-For FP2 I explored the 2htdp/image library for lack of a better library. Nothing peeked my interest, so I used this to generate an image which displays some of the information I retrieved in [FP1](https://github.com/JDBJohnBrown/FP1). I expanded upon my code from FP1 in numerous ways, however I will stick stricly to explaining my use of the image library.
+For FP2 I explored the 2htdp/image library for lack of a better library. Nothing piqued my interest, so I used this to generate an image which displays some of the information I retrieved in [FP1](https://github.com/JDBJohnBrown/FP1). I expanded upon my code from FP1 in numerous ways, however I will stick stricly to explaining my use of the image library.
 
 
 ## Sub-Images
